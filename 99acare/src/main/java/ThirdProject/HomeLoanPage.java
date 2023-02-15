@@ -58,8 +58,8 @@ public class HomeLoanPage {
  	 @FindBy(xpath="//span[text()='Mobile Number(OTP verification req)'])[2]")
  	 private WebElement Mobilenumber;
  	 
- 	 @FindBy(xpath="//button[text()='Submit Details']")
- 	 private WebElement submit;
+ 	// @FindBy(xpath="//button[text()='Submit Details']")
+ 	// WebElement submit;
      
      //CONSTRUCTOR
  	public HomeLoanPage (WebDriver driver)
