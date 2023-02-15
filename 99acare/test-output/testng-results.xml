@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-30T14:19:36 IST" name="Sharvari" finished-at="2023-01-30T14:19:36 IST" duration-ms="176">
+    <groups>
+    </groups>
+    <test started-at="2023-01-30T14:19:36 IST" name="Test" finished-at="2023-01-30T14:19:36 IST" duration-ms="176">
+      <class name="testNGtest.testngKeywords">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="beforeclass" finished-at="2023-01-30T14:19:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="beforeMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testsujay()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="testsujay" finished-at="2023-01-30T14:19:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsujay -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="afterMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="beforeMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testwadkar()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="testwadkar" finished-at="2023-01-30T14:19:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwadkar -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="afterMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="beforeMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testprakashrao()[pri:2, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="testprakashrao" finished-at="2023-01-30T14:19:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testprakashrao -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="afterMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGtest.testngKeywords@53fdffa1]" started-at="2023-01-30T14:19:36 IST" name="afterClass" finished-at="2023-01-30T14:19:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNGtest.testngKeywords -->
+      <class name="testNGtest.trialTestclass">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testNGtest.trialTestclass@505fc5a4]" started-at="2023-01-30T14:19:36 IST" name="beforeclass" finished-at="2023-01-30T14:19:36 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGtest.trialTestclass@505fc5a4]" started-at="2023-01-30T14:19:36 IST" name="beforeMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test()[pri:0, instance:testNGtest.trialTestclass@505fc5a4]" started-at="2023-01-30T14:19:36 IST" name="test" finished-at="2023-01-30T14:19:36 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGtest.trialTestclass@505fc5a4]" started-at="2023-01-30T14:19:36 IST" name="afterMethod" finished-at="2023-01-30T14:19:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGtest.trialTestclass@505fc5a4]" started-at="2023-01-30T14:19:36 IST" name="afterClass" finished-at="2023-01-30T14:19:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNGtest.trialTestclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Sharvari -->
+</testng-results>
