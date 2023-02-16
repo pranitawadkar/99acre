@@ -16,8 +16,8 @@ public class NikhilPatil {
      @FindBy(xpath="//div[text()='BANKS']")
      private WebElement banks;
      
-     @FindBy(xpath="//h2[text()='Bank(s) Deals']")
-     private WebElement Banksdeals;
+   //  @FindBy(xpath="//h2[text()='Bank(s) Deals']")
+    // private WebElement Banksdeals;
      
      @FindBy(xpath="(//a[text()='Get me this deal'])[1]")
      private WebElement kotakbank ;
@@ -43,20 +43,20 @@ public class NikhilPatil {
      @FindBy(xpath="//span[text()='How are you currently employed']")
      private WebElement CurrentlyEmployed;
 
- 	 @FindBy(xpath="//span[text()='Your income']")
-     private WebElement YourIncome;
+ 	// @FindBy(xpath="//span[text()='Your income']")
+    // private WebElement YourIncome;
      
- 	 @FindBy(xpath="//span[text()='Current total EMI']")
-     private WebElement TotalEMI;
+ 	// @FindBy(xpath="//span[text()='Current total EMI']")
+    // private WebElement TotalEMI;
  	 
- 	 @FindBy(xpath="//span[text()='Full Name (as per PAN)']")
-     private WebElement fullname;
+ 	// @FindBy(xpath="//span[text()='Full Name (as per PAN)']")
+    // private WebElement fullname;
  	 
- 	 @FindBy(xpath="(//span[text()='Your Email Id'])[2]")
- 	 private WebElement EmailId;
+ 	// @FindBy(xpath="(//span[text()='Your Email Id'])[2]")
+ 	// private WebElement EmailId;
  	 
- 	 @FindBy(xpath="//span[text()='Mobile Number(OTP verification req)'])[2]")
- 	 private WebElement Mobilenumber;
+ 	// @FindBy(xpath="//span[text()='Mobile Number(OTP verification req)'])[2]")
+ 	// private WebElement Mobilenumber;
  	 
  	// @FindBy(xpath="//button[text()='Submit Details']")
  	// WebElement submit;
